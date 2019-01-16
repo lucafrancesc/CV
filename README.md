@@ -1,10 +1,17 @@
-## Your Name
+Luca Francesco Eto
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an enthusiastic student who enjoy to be relied on and would go over and beyond to help colleagues and peers.
+I am a reliable team player who enjoys problem solving.
+I strive to achieve success and I am always keen to expand my knowlegde.
+
+For the past three years I worked as team leader in hotel operations. 
+I came across quite challenging situations which supported me to become a more confident and charismatic individual.
+
+I want to become an experienced and skilled developer.
+I really enjoy coding as it allows me to use my problem solving skills.
+~I would like to be part of a team and solve complex problems.
 
 ## Skills
-
-#### This Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,14 +19,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+Reliable : Being dependable, supporting peers and being consistent. I maturated these qualities working in teams in the last few years.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Charismatic : Ready to support who is in charge and lead the team to meet the goals.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Pro active : During my experience in hospitality I not only developed the skills that allow me to sort several problems in a short amount of time but also helped me to think ahead trying to prevent situation.
+
+Learning agility : I like to learn by doing and try different approaches to use my skills in new challenging situations. 
+
+Enthusiastic : I am eager to learn and practice what I study. During the pre course and on Codewars I felt very energetic when solving coding challenges.
+
+
+
 
 ## Education
 
@@ -35,16 +46,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+ITC Luigi Einaudi 2003-2008 (Technical and commercial institute)
+Mathematics - A
+Economics - A
+English - A
 
 #### Any other qualifications
-
+Civiform - Community College
+Web development course
 ## Experience
+Hilton London Olympia 12/2014 - 09-2018
+Receptionist
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Italian Army 07/2011 - 07/2012
