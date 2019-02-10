@@ -44,7 +44,7 @@ Highly selective 16 weeks full-time Coding Bootcamp.
 
 -APIs
 
--Graduation Project (https://github.com/lucafrancesc/dungeon-hero)
+-[Graduation Project](https://github.com/lucafrancesc/dungeon-hero)
 
 #### College
 ITC Luigi Einaudi 2003-2008 (Technical and commercial institute)
