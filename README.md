@@ -26,16 +26,25 @@ Enthusiastic : I am eager to learn and practice what I study. During the pre cou
 
 #### Makers Academy (October 2018, January 2019)
 Highly selective 16 weeks full-time Coding Bootcamp.
-Focussed on Pair Programming, Test Driven Development and Agile practices.
-Teaching programming with:
-Solid principle
-OOP, TDD, MVC, DDD
-Ruby, Ruby on Rails, JavaScript, (Python/unittest - post course)
-RSpec, Jasmine, Capybara, Cypress, Zombie
-Git collaborations
-Database (PostgreSQL, SQLite, MongoDB)
-APIs
-Graduation Project (https://github.com/lucafrancesc/dungeon-hero)
+
+-Focused on Pair Programming, Test Driven Development and Agile practices.
+-Teaching programming with:
+
+-Solid principle
+
+-OOP, TDD, MVC, DDD
+
+-Ruby, Ruby on Rails, JavaScript, (Python/unittest - post course)
+
+-RSpec, Jasmine, Capybara, Cypress, Zombie
+
+-Git collaborations
+
+-Database (PostgreSQL, SQLite, MongoDB)
+
+-APIs
+
+-Graduation Project (https://github.com/lucafrancesc/dungeon-hero)
 
 #### College
 ITC Luigi Einaudi 2003-2008 (Technical and commercial institute)
