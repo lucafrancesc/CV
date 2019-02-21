@@ -5,9 +5,8 @@
 
 <div align="left">
 
-[Gmail ](mailto:eto.lucafrancesco@gmail.com)
-<br>
-[LinkedIn ](https://www.linkedin.com/in/luca-francesco-eto-730052a0)
+  [Gmail ](mailto:eto.lucafrancesco@gmail.com)<br>
+  [LinkedIn ](https://www.linkedin.com/in/luca-francesco-eto-730052a0)
 
 </div>
 
@@ -15,12 +14,12 @@
 
 <div align="center">
 
-[Profile ](#profile) |
-[Projects ](#projects) |
-[Skills ](#skills) |
-[Education ](#education) |
-[Experience ](#experience) |
-[Interests ](#interests)
+  [Profile ](#profile) |
+  [Projects ](#projects) |
+  [Skills ](#skills) |
+  [Education ](#education) |
+  [Experience ](#experience) |
+  [Interests ](#interests)
 
 </div>
 
@@ -69,15 +68,23 @@ Highly selective 16 weeks full-time Coding Bootcamp.
 
 -OOP, TDD, MVC, DDD
 
--Ruby, Ruby on Rails, JavaScript, (Python/unittest - post course)
+-Ruby, Ruby on Rails, JavaScript
 
 -RSpec, Jasmine, Capybara, Cypress, Zombie
+
+-Eslint, Rubocop
+
+-Travis CI
+
+-Trello
 
 -Git collaborations
 
 -Database (PostgreSQL, SQLite, MongoDB)
 
 -APIs
+
+-Currently learning Python
 
 -[Graduation Project](https://github.com/lucafrancesc/dungeon-hero)
 
