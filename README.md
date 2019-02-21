@@ -1,13 +1,13 @@
-<h1 align="center"> Luca Francesco Eto </h1>
-<h4 align="center"> Junior Software Developer </h4>
+<h1 align="left"> Luca Francesco Eto </h1>
+<h4 align="left"> Junior Software Developer </h4>
 
 <br>
 
-<div align="center">
+<div align="left">
 
-<img src="/Images/gmail.png" width="20" height="15"> <a href="mailto:eto.lucafrancesco@gmail.com"> eto.lucafrancesco@gmail.com </a>
+[Gmail ](mailto:eto.lucafrancesco@gmail.com)
 <br>
-<img src="/Images/linkedin-logo-copy.png" width="20" height="20"> <a href="https://www.linkedin.com/in/luca-francesco-eto-730052a0/">linkedin</a>
+[LinkedIn ](https://www.linkedin.com/in/luca-francesco-eto-730052a0)
 
 </div>
 
@@ -37,6 +37,13 @@ I came across quite challenging situations which supported me to become a more c
 
 I want to become an experienced and skilled developer.
 I really enjoy coding as it allows me to use my problem solving skills.
+
+## Projects
+| Project | Summary | Technologies | Testing
+|----------|----------|----------|----------|
+| [Dungeon Hero](https://github.com/lucafrancesc/dungeon-hero) | As our final project at Makers we decided, together with our team, to challenge ourselves creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. You can play it here: <a href="https://lucafrancesc.github.io/dungeon-hero/">https://lucafrancesc.github.io/dungeon-hero/</a> | JavaScript, JQuery, HTML5, CSS| Jasmine, Istanbul, ESlint, Travis CI, Coveralls
+| [Bank Tech Test](https://github.com/lucafrancesc/Bank-Tech-Test) | Tech test exercise where we've been asked to create an application able to create and manage a basic bank account, trying to keep our code as cleaner as possible while following a strict TDD process | JavaScript | Jasmine, ESlint
+| [Thermostat](https://github.com/lucafrancesc/Thermostat-JavaScript) | A simple single page Thermostat application created using JavaScript and JQuery - my very first project in JS | JavaScript, JQuery, HTML5, CSS| Jasmine
 
 ## Skills
 
@@ -92,3 +99,7 @@ Clapham Common McDonald's (11/2012 - 11/2014)
 Crew Trainer
 
 Italian Army (07/2011 - 07/2012)
+
+## Interests
+
+Reading, watching series, gaming (when I have time), going to the gym and trying to solving kata on [codewars ](www.codewars.com) (yes, I do believe it's fun!)
