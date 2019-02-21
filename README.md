@@ -41,8 +41,8 @@ I really enjoy coding as it allows me to use my problem solving skills.
 | Project | Summary | Technologies | Testing
 |----------|----------|----------|----------|
 | [Dungeon Hero](https://github.com/lucafrancesc/dungeon-hero) | As our final project at Makers we decided, together with our team, to challenge ourselves creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. | JavaScript, JQuery, HTML5, CSS| Jasmine, Istanbul, ESlint, Travis CI, Coveralls
-| [Bank Tech Test](https://github.com/lucafrancesc/Bank-Tech-Test) | Tech test exercise where we've been asked to create an application able to create and manage a basic bank account, trying to keep our code as cleaner as possible while following a strict TDD process | JavaScript | Jasmine, ESlint
-| [Thermostat](https://github.com/lucafrancesc/Thermostat-JavaScript) | A simple single page Thermostat application created using JavaScript and JQuery - my very first project in JS | JavaScript, JQuery, HTML5, CSS| Jasmine
+| [Bank Tech Test](https://github.com/lucafrancesc/BankTechTest) | Tech test exercise where we've been asked to create an application able to create and manage a basic bank account, trying to keep our code as cleaner as possible while following a strict TDD process | JavaScript | Jasmine, ESlint
+| [Thermostat](https://github.com/lucafrancesc/Thermostat) | A simple single page Thermostat application created using JavaScript and JQuery - my very first project in JS | JavaScript, JQuery, HTML5, CSS| Jasmine
 
 ## Skills
 
