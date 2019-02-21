@@ -1,4 +1,32 @@
-## Luca Francesco Eto
+<h1 align="center"> Luca Francesco Eto </h1>
+<h4 align="center"> Junior Software Developer </h4>
+
+<br>
+
+<div align="center">
+
+<img src="/Images/gmail.png" width="20" height="15"> <a href="mailto:eto.lucafrancesco@gmail.com"> eto.lucafrancesco@gmail.com </a>
+<br>
+<img src="/Images/linkedin-logo-copy.png" width="20" height="20"> <a href="https://www.linkedin.com/in/luca-francesco-eto-730052a0/">linkedin</a>
+
+</div>
+
+<hr>
+
+<div align="center">
+
+[Profile ](#profile) |
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Experience ](#experience) |
+[Interests ](#interests)
+
+</div>
+
+<hr>
+
+## Profile
 
 I am an enthusiastic student who enjoy to be relied on and would go over and beyond to help colleagues and peers.
 I am a reliable team player who enjoys problem solving.
