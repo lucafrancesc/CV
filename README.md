@@ -27,15 +27,10 @@
 
 ## Profile
 
-I am an enthusiastic student who enjoy to be relied on and would go over and beyond to help colleagues and peers.
-I am a reliable team player who enjoys problem solving.
-I strive to achieve success and I am always keen to expand my knowledge.
-
-For the past three years I worked as team leader in hotel operations.
-I came across quite challenging situations which supported me to become a more confident and charismatic individual.
-
-I want to become an experienced and skilled developer.
-I really enjoy coding as it allows me to use my problem solving skills.
+I am an enthusiastic student who recently graduated from Makers Academy.
+I strive to achieve success and I am always keen to expand my knowledge as shown throughout the course.
+I want to become an experienced and skilled developer because I really enjoy coding as it allows me to use my problem solving skills and create functioning programs from scratch.
+Additionally for the past three years I worked as team leader in hotel operations where I came across quite challenging situations, which supported me to become a more confident and charismatic individual.
 
 ## Projects
 | Project | Summary | Technologies | Testing
@@ -52,7 +47,7 @@ Charismatic : Ready to support who is in charge and lead the team to meet the go
 
 Pro active : During my experience in hospitality I not only developed the skills that allow me to sort several problems in a short amount of time but also helped me to think ahead trying to prevent situation.
 
-Learning agility : I like to learn by doing and try different approaches to use my skills in new challenging situations.
+Learning agility : I like to learn by doing and try different approaches to use my skills in new challenging situations. I am currently studying Python.
 
 Enthusiastic : I am eager to learn and practice what I study. During the pre course and on Codewars I felt very energetic when solving coding challenges.
 
@@ -83,8 +78,6 @@ Highly selective 16 weeks full-time Coding Bootcamp.
 -Database (PostgreSQL, SQLite, MongoDB)
 
 -APIs
-
--Currently learning Python
 
 -[Graduation Project](https://github.com/lucafrancesc/dungeon-hero)
 
